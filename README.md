@@ -48,4 +48,4 @@ Projects: SCADA, AsiXMec, Vismedic.
 
 Roles: Project Leader, C++ and Qt developer. Architect.
 
-Projects: Vismedic 2D and 3D (2D and 3D Medical Visualization System from TAC and MRI)
+Projects: [Vismedic 2D and 3D (2D and 3D Medical Visualization System from TAC and MRI)](projects/vismedic/README.md)
