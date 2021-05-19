@@ -9,9 +9,11 @@ Engineer in Computer Science from the University of Informatic Sciences, La Haba
 Thesis: **Direct Volume Rendering for Virtual Endoscopies**.
 
 2014-2016
-Master in Apllied Informatics from the University of Informatic Sciences, La Habana, Cuba.
+Master in Applied Informatics from the University of Informatic Sciences, La Habana, Cuba.
 
 Thesis: **Illustrative visualization of volume data**.
+
+#### Check the links for detailed information of each item.
 
 ### EXPERIENCE
 

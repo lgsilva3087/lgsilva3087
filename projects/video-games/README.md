@@ -1,4 +1,4 @@
-## Video games (2011-2016)
+## Video games (2014-2021)
 
 The Center of Interactive Technollogies (Vertex), formerly known as Center of 3D Interactive Environments (Vertex), has been developing video games since its foundation in 2014. Until 2021, Vertex, in collaboration with the ICAIC Animation Studios, has the majority of the most popular comercial cuban video games, including:
 
