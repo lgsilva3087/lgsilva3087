@@ -19,15 +19,15 @@ Thesis: **Illustrative visualization of volume data**.
 
 Roles: Professor of Computer Graphics, C#, C++, Qt and Unity developer, 3D Designer, Network Developer, Architect.
 
-Projects: video games Kuba Kart, Coliseum and La Neurona 2, Cosmox Web and Network Games Platfom.
+Projects: [video games](projects/video-games/README.md): Kuba Kart, Coliseum and La Neurona 2, Cosmox Web and Network Games Platfom.
 
 #### 2018-2019 Director at Center of 3D Interactive Environments (Vertex)
 
 Roles: Director, Professor of Computer Graphics, C#, C++, Qt and Unity developer, Continuous Integration Manager, 3D Designer, Video Game Director and Executive Producer.
 
-Projects: video games: Kuba Kart, Coliseum and La Neurona 2, Cosmox Web Platfom and APK.
+Projects: [video games](projects/video-games/README.md): Kuba Kart, Coliseum and La Neurona 2, Cosmox Web Platfom and APK.
 
-#### 2016-2018 Vice Director at at Center of 3D Interactive Environments (Vertex)
+#### 2016-2018 Vice Director at Center of 3D Interactive Environments (Vertex)
 
 Roles: Professor of Computer Graphics, C#, C++, Qt and Unity developer, Continuous Integration Manager.
 
