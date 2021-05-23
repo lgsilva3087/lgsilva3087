@@ -51,3 +51,7 @@ Projects: SCADA, AsiXMec, Vismedic.
 Roles: Project Leader, C++ and Qt developer. Architect.
 
 Projects: [Vismedic 2D and 3D (2D and 3D Medical Visualization System from TAC and MRI)](projects/vismedic/README.md)
+
+###ENGLISH
+
+EF SET Certificate with result of C2 Proficient: https://www.efset.org/cert/wyCfdX
