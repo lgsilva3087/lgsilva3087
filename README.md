@@ -2,6 +2,8 @@
 #### Engineer in Computer Science
 #### Master in Applied Informatics
 
+### -----THIS CV IS UNDER CONSTRUCTION-----
+
 ### EDUCATION
 2006-2011
 Engineer in Computer Science from the University of Informatic Sciences, La Habana, Cuba.
