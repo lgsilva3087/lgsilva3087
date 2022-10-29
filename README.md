@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgsilva3087&langs_count=4&line_height=345&theme=dark" />
 </a>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=lgsilva3087&theme=dark&hide_border=false)
+
 ### -----THIS CV IS UNDER CONSTRUCTION-----
 
 ### EDUCATION
