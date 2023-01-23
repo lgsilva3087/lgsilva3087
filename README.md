@@ -26,7 +26,13 @@ Thesis: **Illustrative visualization of volume data**.
 
 ### EXPERIENCE
 
-#### 2019-____ Main Specialist in Computer Sciences at Center of Interactive Technollogies
+#### 2021-2023 Core C++ Developer at LizardFS
+
+Roles: C++ Developer, Qt Developer (for the Windows Client).
+
+Project: [LizardFS](https://lizardfs.com/) (open source), LizardFS Windows Client (private).
+
+#### 2019-2021 Main Specialist in Computer Sciences at Center of Interactive Technollogies
 
 Roles: Professor of Computer Graphics, C#, C++, Qt and Unity developer, 3D Designer, Network Developer, Architect.
 
