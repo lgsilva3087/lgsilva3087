@@ -26,6 +26,15 @@ Thesis: **Illustrative visualization of volume data**.
 
 ### EXPERIENCE
 
+#### 2022-Today Company: Aliuska Marrero Nieblas Cuban Engineer
+
+Roles: C++, Qt, Storage and Network Developer.
+
+Projects:
+- [LizardFS](https://lizardfs.com/) (open source), LizardFS Windows Client (private).
+- [SaunaFS](https://saunafs.com/): as Senior Storage Developer ([Luis Guillermo Silva Rojas](https://saunafs.com/about_us#team:~:text=Luis%20Guillermo%20Silva%20Rojas))
+- [Leil Storage](https://leil.io/): as Senior Storage Developer ([Luis Guillermo Silva Rojas](https://leil.io/about/#team:~:text=Luis%20Guillermo%20Silva%20Rojas))
+
 #### 2021-2023 Core C++ Developer at LizardFS
 
 Roles: C++ Developer, Qt Developer (for the Windows Client).
