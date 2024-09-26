@@ -9,8 +9,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lgsilva3087&theme=dark&hide_border=false)
 
-### -----THIS CV IS UNDER CONSTRUCTION-----
-
 ### EDUCATION
 2006-2011
 Engineer in Computer Science from the University of Informatic Sciences, La Habana, Cuba.
