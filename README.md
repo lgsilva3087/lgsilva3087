@@ -24,7 +24,15 @@ Thesis: **Illustrative visualization of volume data**.
 
 ### EXPERIENCE
 
-#### 2022-Today Company: Aliuska Marrero Nieblas Cuban Engineer
+#### 2023-Today Company: [Leil Storage OÜ](https://leil.io/)
+
+Roles: C++, Qt, Storage and Network Developer.
+
+Projects:
+- [SaunaFS](https://saunafs.com/): as Senior Storage Developer ([Luis Guillermo Silva Rojas](https://saunafs.com/about_us#team:~:text=Luis%20Guillermo%20Silva%20Rojas))
+- [Leil Storage](https://leil.io/): as Senior Storage Developer ([Luis Guillermo Silva Rojas](https://leil.io/about/#team:~:text=Luis%20Guillermo%20Silva%20Rojas))
+
+#### 2022-2023 Company: Aliuska Marrero Nieblas Cuban Engineer
 
 Roles: C++, Qt, Storage and Network Developer.
 
